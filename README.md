@@ -1,5 +1,7 @@
 👋 Hi, I’m @bosstler
 
+🧑‍🎓 Graduating from BYU-Idaho w/ a B.S. in CS Dec '22
+
 👀 I love building applications
 
 🔭 I’m currently working on a saving/investing web app
