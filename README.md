@@ -1,4 +1,14 @@
-### Hi there 👋
+👋 Hi, I’m @bosstler
+
+👀 I love building applications
+
+🔭 I’m currently working on a saving/investing web app
+
+🌱 I’m currently learning Javascript, Python & C#
+
+📫 Email: bensonmalcolm9gmail.com
+
+👉 LinkedIn: https://www.linkedin.com/in/benson-ostler/
 
 <!--
 **Bosstler/Bosstler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
