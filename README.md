@@ -1,6 +1,6 @@
 👋 Hi, I’m @bosstler
 
-🧑‍🎓 Graduating from BYU-Idaho w/ a B.S. in CS Dec '22
+🧑‍🎓 Graduating from BYU-Idaho w/ a B.S. in Computer Science Dec '22
 
 👀 I love building applications
 
