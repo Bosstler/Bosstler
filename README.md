@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on a saving/investing web app
 
-🌱 I’m learning Javascript, Python & C#
+🌱 I’m learning Javascript, Python & Elixer
 
 📫 Email: bensonmalcolm9gmail.com
 
